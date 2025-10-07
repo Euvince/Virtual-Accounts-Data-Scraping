@@ -8,6 +8,7 @@ __pycache__/
 .DS_Store
 .env
 .env.dev
+.env.example
 
 
 read.md
@@ -15,3 +16,4 @@ packages.txt
 tests.py
 .env
 env/
+.vscode/
